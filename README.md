@@ -8,6 +8,7 @@ android app to mining xmr coin, so it is a xmr mobile miner，如有疑问可以
 5、1.0.3版本更新了捐献比例，从10%降低为5%，从而让用户可以获取更大的收益；
 6、1.0.4版本修复了accept区块数量被重置问题，增加了如何保持app后台允许联网活动的提示，增加了新版本自动检测功能；
 7、1.0.5版本修复了worker id问题，默认勾选worker id，可以支持多个手机同时向一个钱包地址挖矿；
+8、增加了PC可视化简易版exe程序，轻松挖取xmr
 
 
 
