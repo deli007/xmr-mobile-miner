@@ -1,14 +1,10 @@
-# xmr-mobile-miner
-android app to mining xmr coin, so it is a xmr mobile miner，如有疑问可以联系微信thomas_t007；
+# MinerTest.apk is a xmr mobile miner. This android app can mining xmr coin on mobile. Its latest version is 1.0.5
+# MinerTest.apk 这个App可以在安卓手机上进行门罗币xmr挖矿，Huawei Mate 30 的算力约500H/s，与普通电脑算力相当.
+# xmr-eth-pc-miner.rar is a xmr and eth Windows PC version miner. This exe program can mining xmr and eth and the same time on PC. Its latest version is 3.0.0
+# xmr-eth-pc-miner.rar这个电脑程序可以同时挖取门罗币xmr和以太币eth（挖eth需要电脑有独立显卡），这是个可视化免安装的绿色版.
+# if you have any question, you can contact me by wechat thoms_t007
+# 如有疑问可以联系微信 thomas_t007
 
-1、挖矿小测试，支持在Android 10的手机上进行xmr挖矿测试；
-2、一部Huawei Mate30 Pro的手机算力大约为500H/s，一部Huawei Mate 10的算力大约为200H/s；
-3、经与电脑进行对比，Mate30的算力水平与个人电脑水平相当，当手机功耗低于电脑，因此手机挖矿xmr，比普通电脑更有优势；
-4、此app仅为测试app，不能用于正式用途，本app无需账号登录，不收集任何用户信息；
-5、1.0.3版本更新了捐献比例，从10%降低为5%，从而让用户可以获取更大的收益；
-6、1.0.4版本修复了accept区块数量被重置问题，增加了如何保持app后台允许联网活动的提示，增加了新版本自动检测功能；
-7、1.0.5版本修复了worker id问题，默认勾选worker id，可以支持多个手机同时向一个钱包地址挖矿；
-8、增加了PC可视化简易版exe程序，轻松挖取xmr
 
 
 
